@@ -19,8 +19,7 @@ This project is an **interactive Tableau dashboard** created using the classic *
 |------------------------------|--------------------------------------|
 | `superstore-dashboard.twbx` | Tableau Packaged Workbook            |
 | `sample-superstore.xlsx`    | Dataset used                         |
-| <a href= "https://github.com/rutikeshpawar/Superstore-Dashboards/blob/main/Superstore%20Sales%20Dashboards.png"> View Dashboard </a>
-     | Dashboard image                      |
+|                             | Dashboard image                      |
 
 
 👨‍💻 Tools Used
