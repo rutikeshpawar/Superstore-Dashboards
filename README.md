@@ -11,7 +11,7 @@ This project is an **interactive Tableau dashboard** created using the classic *
 - 🎯 **Monthly Sales Trend with Trendline**
 - 🎛️ **Region & Year Filters** with Show/Hide Button
 
-📁 Files Included
+### 📁 Files Included
 | File                                                                                                                                      | Description               |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | [`Superstore Dashboards.twbx`](https://github.com/rutikeshpawar/Superstore-Dashboards/blob/main/Superstore%20Dashboards.twbx)             | Tableau Packaged Workbook |
@@ -20,12 +20,12 @@ This project is an **interactive Tableau dashboard** created using the classic *
 
 
 
-👨‍💻 Tools Used
+### 👨‍💻 Tools Used
 - Tableau Desktop
 - Microsoft Excel
 - GitHub
 
 ---
 
-Dashboards Screenshot
+### Dashboards Screenshot
 ![Superstore Sales Dashboards](https://github.com/user-attachments/assets/9fae8d20-8119-4648-8b8b-394c3fdae76c)
