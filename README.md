@@ -12,7 +12,7 @@ This project is an **interactive Tableau dashboard** created using the classic *
 - 🎛️ **Region & Year Filters** with Show/Hide Button
 
 ### 🖼️ Dashboard Preview
-
+<ahttps://github.com/rutikeshpawar/Superstore-Dashboards/blob/main/Superstore%20Sales%20Dashboards.png> View Dashboard </a>
 
 📁 Files Included
 | File                         | Description                          |
