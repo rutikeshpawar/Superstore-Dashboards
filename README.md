@@ -1,18 +1,30 @@
-# Superstore-Dashboards
-# Superstore Tableau Dashboard
+# 🛍️ Superstore Tableau Dashboard
 
-📊 Interactive Tableau dashboard for analyzing US Superstore sales data.
+This project is an **interactive Tableau dashboard** created using the classic **Sample - Superstore** dataset.
 
-## Key Features
-- KPI cards: Sales, Profit Margin, Return Rate
-- Filters: Region, Year
-- Show/Hide filter toggle button
-- Action filter: Sales by Category → affects entire dashboard
-- Metric switch (Sales / Profit / Orders)
+### 📊 Features
+- 🧮 **Dynamic KPI Cards** for Sales, Profit Margin, Return Rate
+- 🔃 **Metric Selector** (Sales / Profit / Orders)
+- 📌 **Action Filter**: Sales by Category filters entire dashboard
+- 🧭 **Map View** of sales by US state
+- 🧩 **Top 5 Product Table**
+- 🎯 **Monthly Sales Trend with Trendline**
+- 🎛️ **Region & Year Filters** with Show/Hide Button
 
-## Dashboard Preview
-![Dashboard](screenshots/dashboard-preview.png)
+### 🖼️ Dashboard Preview
 
-## Tools Used
+
+📁 Files Included
+| File                         | Description                          |
+|------------------------------|--------------------------------------|
+| `superstore-dashboard.twbx` | Tableau Packaged Workbook            |
+| `sample-superstore.xlsx`    | Dataset used                         |
+| `dashboard-preview.png`     | Dashboard image                      |
+
+
+👨‍💻 Tools Used
 - Tableau Desktop
-- Excel
+- Microsoft Excel
+- GitHub
+
+---
