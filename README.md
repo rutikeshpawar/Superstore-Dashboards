@@ -26,3 +26,6 @@ This project is an **interactive Tableau dashboard** created using the classic *
 - GitHub
 
 ---
+
+Dashboards Screenshot
+![Superstore Sales Dashboards](https://github.com/user-attachments/assets/9fae8d20-8119-4648-8b8b-394c3fdae76c)
