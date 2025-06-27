@@ -2,6 +2,8 @@
 
 This project is an **interactive Tableau dashboard** created using the classic **Sample - Superstore** dataset.
 
+---
+
 ### 📊 Features
 - 🧮 **Dynamic KPI Cards** for Sales, Profit Margin, Return Rate
 - 🔃 **Metric Selector** (Sales / Profit / Orders)
@@ -11,6 +13,8 @@ This project is an **interactive Tableau dashboard** created using the classic *
 - 🎯 **Monthly Sales Trend with Trendline**
 - 🎛️ **Region & Year Filters** with Show/Hide Button
 
+---
+
 ### 📁 Files Included
 | File                                                                                                                                      | Description               |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
@@ -18,6 +22,7 @@ This project is an **interactive Tableau dashboard** created using the classic *
 | [`sample_-_superstore.xlsx`](https://github.com/rutikeshpawar/Superstore-Dashboards/blob/main/sample_-_superstore.xlsx)                   | Dataset used              |
 | [`Superstore Sales Dashboards.png`](https://github.com/rutikeshpawar/Superstore-Dashboards/blob/main/Superstore%20Sales%20Dashboards.png) | Dashboard preview image   |
 
+---
 
 
 ### 👨‍💻 Tools Used
