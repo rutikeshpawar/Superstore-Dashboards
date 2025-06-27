@@ -15,11 +15,12 @@ This project is an **interactive Tableau dashboard** created using the classic *
 <a href= "https://github.com/rutikeshpawar/Superstore-Dashboards/blob/main/Superstore%20Sales%20Dashboards.png"> View Dashboard </a>
 
 📁 Files Included
-| File                         | Description                          |
-|------------------------------|--------------------------------------|
-| `superstore-dashboard.twbx` | Tableau Packaged Workbook            |
-| `sample-superstore.xlsx`    | Dataset used                         |
-|                             | Dashboard image                      |
+| File                                                                                                                                      | Description               |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [`Superstore Dashboards.twbx`](https://github.com/rutikeshpawar/Superstore-Dashboards/blob/main/Superstore%20Dashboards.twbx)             | Tableau Packaged Workbook |
+| [`sample_-_superstore.xlsx`](https://github.com/rutikeshpawar/Superstore-Dashboards/blob/main/sample_-_superstore.xlsx)                   | Dataset used              |
+| [`Superstore Sales Dashboards.png`](https://github.com/rutikeshpawar/Superstore-Dashboards/blob/main/Superstore%20Sales%20Dashboards.png) | Dashboard preview image   |
+
 
 
 👨‍💻 Tools Used
